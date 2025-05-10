@@ -104,7 +104,7 @@ export default function Home() {
           {/* Image Section */}
           <div className="w-full lg:w-1/2 flex justify-center">
             <Image
-              src="/whytochoose.jpg"
+              src="/why.jpg"
               alt="Upskill College training"
               width={500}
               height={350}

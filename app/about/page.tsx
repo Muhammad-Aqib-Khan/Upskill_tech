@@ -234,8 +234,8 @@ export default function AboutUs() {
           <Portfolio
             image='/zamankhan.jpg'
             className='object-cover  object-top pr-3 rounded-xl scale-150'
-            name='Arslan Mazher'
-            description='One of our Talented Mentors, In upskill He will teach Google ads, graphic designing, and Shopify'
+            name='Zaman Khan'
+            description='One of our Talented Mentors, Artist'
             socialLinks={{
               instagram: "https://instagram.com/username",
               github: "https://github.com/username",
@@ -246,8 +246,8 @@ export default function AboutUs() {
           <Portfolio
             image='/Arslan.jpeg'
             className='object-cover object-top rounded-xl scale-140'
-            name='Irfan Mirza'
-            description='One of our Talented Mentors, In upskill He will teach Google ads, graphic designing, and Shopify'
+            name='Arslan Mazher'
+            description='One of our Talented Mentors, Junior Web Developer'
             socialLinks={{
               instagram: "https://instagram.com/username",
               github: "https://github.com/username",
@@ -258,7 +258,7 @@ export default function AboutUs() {
           <Portfolio
             image='/irfan.jpeg'
             className='object-cover object-top pl-6  rounded-xl scale-170'
-            name='Ehtisham Bana'
+            name='Irfan Mirza'
             description='One of our Talented Mentors, In upskill He will teach Google ads, graphic designing, and Shopify'
             socialLinks={{
               instagram: "https://instagram.com/username",

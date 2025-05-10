@@ -108,7 +108,7 @@ export default function Home() {
               alt="Upskill College training"
               width={500}
               height={350}
-              className="rounded-lg shadow-md object-cover transform scale-x-[-1] "
+              className="rounded-lg shadow-md object-cover  "
             />
           </div>
 

@@ -104,11 +104,11 @@ export default function Home() {
           {/* Image Section */}
           <div className="w-full lg:w-1/2 flex justify-center">
             <Image
-              src="/images/upskill-training.jpg"
+              src="/whytochoose.jpg"
               alt="Upskill College training"
               width={500}
               height={350}
-              className="rounded-lg shadow-md object-cover"
+              className="rounded-lg shadow-md object-cover transform scale-x-[-1] "
             />
           </div>
 

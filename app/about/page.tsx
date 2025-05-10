@@ -123,11 +123,11 @@ export default function AboutUs() {
 
       {/* Staff Section */}
       {/* adminirstrive staff  */}
-      <section className="ml-2  bg-gray-50">
-        <h1 className='text-3xl font-bold p-2 text-gray-700 '>Administration</h1>
+      <section className="ml-2 p-2  bg-gray-50 align-center ">
+        <h1 className='text-3xl font-bold text-center  p-2 text-gray-700 '>Administration</h1>
         <div className='flex gap-4 '>
         <Portfolio
-          image='/Farwa.jpg'
+          image='/farwa.jpg'
           className='object-cover object-top rounded-xl scale-120'
           name='Advocate Farwa Altaf'
           subheading='Principal'
